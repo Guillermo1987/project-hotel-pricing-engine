@@ -1,12 +1,31 @@
 # Hotel Dynamic Pricing Engine — Revenue Management
 
+> **Revenue Management Portfolio Project** · Python · 6-factor pricing algorithm · 60-day forecast
+> **Status:** Finished · Deployed to production (2026-04)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-%E2%86%92%20Open%20Dashboard-60a5fa?style=for-the-badge&logo=firebase&logoColor=white)](https://proyectos-personales.web.app/hotel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-proyectos--personales.web.app-8b5cf6?style=for-the-badge&logo=firebase&logoColor=white)](https://proyectos-personales.web.app)
+
+---
+
+## Project Status
+
+| Phase | Status |
+|---|---|
+| Pricing algorithm design (6 factors) | Done |
+| Synthetic historical data (2 years × 3 room types) | Done |
+| 60-day forward forecast | Done |
+| React dashboard deployment | Done |
+
+**Current phase:** maintenance — engine live on portfolio.
+
+---
+
 ## Project Overview
 
 An algorithmic **Revenue Management engine** built in Python that simulates dynamic hotel pricing decisions. Models ADR, RevPAR and occupancy optimization using six real-world pricing factors across 3 room types and generates a 60-day forward price forecast.
 
-Live dashboard: **[proyectos-personales.web.app/hotel](https://proyectos-personales.web.app/hotel)**
-
-Part of Guillermo Ubeda's data portfolio — [linkedin.com/in/guillermo-alejandro-ú-027a3a120](https://linkedin.com/in/guillermo-alejandro-ú-027a3a120)
+**Live dashboard → [proyectos-personales.web.app/hotel](https://proyectos-personales.web.app/hotel)**
 
 ---
 
@@ -86,3 +105,15 @@ Charts included:
 - Occupancy by day of week
 - Revenue breakdown by room type
 - Pricing factor contribution chart
+
+---
+
+## Links
+
+- **Portfolio:** [proyectos-personales.web.app](https://proyectos-personales.web.app)
+- **LinkedIn:** [Guillermo Ubeda Garay](https://www.linkedin.com/in/guillermo-alejandro-%C3%BA-027a3a120/?locale=en_US)
+- **Email:** guille.ubeda.garay@gmail.com
+
+---
+
+*Built by [Guillermo Ubeda](https://github.com/Guillermo1987) · Data & BI Analyst · MBA · ISC2 CC*
