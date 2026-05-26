@@ -5,6 +5,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-%E2%86%92%20Open%20Dashboard-60a5fa?style=for-the-badge&logo=firebase&logoColor=white)](https://proyectos-personales.web.app/hotel)
 [![Portfolio](https://img.shields.io/badge/Portfolio-proyectos--personales.web.app-8b5cf6?style=for-the-badge&logo=firebase&logoColor=white)](https://proyectos-personales.web.app)
+[![Wiki](https://img.shields.io/badge/Wiki-Documentación-fb923c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guillermo1987/project-hotel-pricing-engine/wiki)
 
 ---
 
@@ -110,6 +111,8 @@ Charts included:
 
 ## Links
 
+- **Live Demo:** [proyectos-personales.web.app/hotel](https://proyectos-personales.web.app/hotel)
+- **Wiki:** [Documentación técnica](https://github.com/Guillermo1987/project-hotel-pricing-engine/wiki)
 - **Portfolio:** [proyectos-personales.web.app](https://proyectos-personales.web.app)
 - **LinkedIn:** [Guillermo Ubeda Garay](https://www.linkedin.com/in/guillermo-ubeda-garay)
 - **Email:** guille.ubeda.garay@gmail.com
